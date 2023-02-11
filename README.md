@@ -13,3 +13,5 @@ controls:
 - spcace for normal attack and x for axe attack  
 - r for rage spell  
 - h for heal spell  
+
+![alt text](https://github.com/gaddam-vinay/clashofclans-python/blob/master/image.jpg?raw=true)
