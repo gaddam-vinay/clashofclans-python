@@ -14,4 +14,4 @@ controls:
 - r for rage spell  
 - h for heal spell  
 
-![alt text](https://github.com/gaddam-vinay/clashofclans-python/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/gaddam-vinay/clashofclans-python/blob/master/image.png?raw=true)
