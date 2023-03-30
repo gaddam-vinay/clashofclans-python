@@ -13,6 +13,6 @@ controls:
 - spcace for normal attack and x for axe attack  
 - r for rage spell  
 - h for heal spell  
-# snapshot og a game in terminal
+# snapshot of a game in terminal
 
 ![alt text](https://github.com/gaddam-vinay/clashofclans-python/blob/master/image.png?raw=true)
